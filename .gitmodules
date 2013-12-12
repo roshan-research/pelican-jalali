@@ -1,3 +1,0 @@
-[submodule "jdatetime-repo"]
-	path = jdatetime-repo
-	url = git@github.com:sobhe/python-jalali.git
